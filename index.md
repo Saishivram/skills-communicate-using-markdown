@@ -3,4 +3,4 @@
 ``` javascript
 var myVar = "Hello, world!";
 ```
-#Trying how to add code example
+<h1>Trying how to add code example</h1>
